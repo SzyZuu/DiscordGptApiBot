@@ -1,0 +1,19 @@
+{
+  "name": "szyzugpt",
+  "version": "1.0.0",
+  "description": "Basically ChatGPT-4 but as a discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SzyZu",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.15.2",
+    "dotenv": "^16.4.5",
+    "openai": "^4.47.1"
+  },
+  "devDependencies": {
+    "eslint": "^9.3.0"
+  }
+}
